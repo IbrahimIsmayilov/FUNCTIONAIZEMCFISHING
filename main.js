@@ -30,7 +30,7 @@ function fishBtnClicked() {
   } else if (character === 'alex') {
     // ALEX: Cod 10%, Salmon 10%, Tropical 30%, Puffer 50%
     catchFish(0.1, 0.2, 0.5);
-  }
+  } else;
 }
 
 function catchFish(percentOne, percentTwo, percentThree) {
